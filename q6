@@ -1,0 +1,3 @@
+O pior caso para a altura de uma ABB é quando ela é totalmente linear (similar a uma lista),
+pois o custo computacional de uma busca é O(n), isto é, para uma árvore com 'n' nós dispostos
+de forma linear, no pior caso, será necessário analisar todos os 'n' nós.
