@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "arvore-binaria.h"
-#include "abb.h"
-#include "aux.h"
+#include "libraries/arvore-binaria.h"
+#include "libraries/abb.h"
+#include "libraries/aux.h"
 
 #define N 8
 

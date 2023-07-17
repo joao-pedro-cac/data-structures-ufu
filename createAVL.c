@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "arvore-binaria.h"
-#include "avl.h"
+#include "libraries/arvore-binaria.h"
+#include "libraries/avl.h"
 
 int main() {
 	NodeBT *T = NULL;

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "arvore-binaria.h"
+#include "libraries/arvore-binaria.h"
 
 int main() {
 	NodeBT *T1, *T2;

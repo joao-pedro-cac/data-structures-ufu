@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "arvore-binaria.h"
+#include "libraries/arvore-binaria.h"
 
 int main() {
 	int preOrder[] = {3, 4, 1, 6, 5, 7, 8};
