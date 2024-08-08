@@ -1,6 +1,6 @@
 # Estrutura de Dados (UFU)
 
-Este repositório contém algoritmos e bibliotecas criadas durante a disciplina de Estrutura de Dados da Universidade Federal de Uberlândia (UFU). Os códigos oferecem funções para a criação e manipulação de árvores binárias, árvores binárias de busca e árvores AVL.
+Este repositório contém algoritmos e bibliotecas criados durante a disciplina de Estrutura de Dados da Universidade Federal de Uberlândia (UFU). Os códigos oferecem funções para a criação e manipulação de árvores binárias, árvores binárias de busca e árvores AVL.
 
 **OBS:** Os comentários se encontram em português, mas as funções foram nomeadas majoritariamente em inglês.
 
